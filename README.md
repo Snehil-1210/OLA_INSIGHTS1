@@ -12,9 +12,3 @@ Monitoring payment mix helps product & payments teams prioritise instant settlem
 Cancellation reasons provide direct signals for driver-assistance features, incentive design, and improvements in rider-driver matching.
 A stable rating of ~4.0 across categories indicates consistent service quality; focusing on cancellation reduction could further enhance ratings.
 Tools & methods: Power BI (line charts, pie charts, KPI cards, matrix), SQL for data prep, DAX measures for KPIs and time-series aggregation.
-THE SCREENSHOT : https://github.com/Snehil-1210/OLA_INSIGHTS/blob/main/Screenshot%202025-10-13%20230407.png
-https://github.com/Snehil-1210/OLA_INSIGHTS/blob/main/Screenshot%202025-10-13%20230416.png
-https://github.com/Snehil-1210/OLA_INSIGHTS/blob/main/Screenshot%202025-10-13%20230425.png
-https://github.com/Snehil-1210/OLA_INSIGHTS/blob/main/Screenshot%202025-10-13%20230432.png
-https://github.com/Snehil-1210/OLA_INSIGHTS/blob/main/Screenshot%202025-10-13%20230432.png
-
